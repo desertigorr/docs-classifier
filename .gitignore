@@ -1,0 +1,10 @@
+docs_raw/
+docs_arragned/
+__pycache__
+venv/
+*.pkl
+*.pyc
+.DS_Store
+labels.txt
+model.pkl
+vecrotizer.pkl
